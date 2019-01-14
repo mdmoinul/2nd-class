@@ -1,0 +1,42 @@
+•	Functions:
+What is function ?
+How to write and access it?
+return
+Passing value to functions
+
+Task:
+- passing  your name, and output welcome with your name.
+-Passing two integers output the sum of them.
+
+•	Loops:
+For Loop.
+
+
+Task: Print 20 to 10 reversely.
+
+while loop
+do while loop
+
+switch case
+infinite loop
+
+nested loops
+
+Task: 
+- sum 1,2,3,4 using loop
+-Make multiplication table using nested loop
+
+•	Advance Functions:
+Recursion , what is it ? 
+How to make it ?
+Why we need it ?
+
+Task: Make 1+2+3+4+5 = ? by recursion function
+
+
+Assignment: ( Submit through google drive , make individual file for the programs)
+-Make two functions that sum and subtract two numbers and print it.
+-Take a number and print it reversely till 0.
+- Find even numbers between 1 to 20.
+- Namata of 22 and 40
+
